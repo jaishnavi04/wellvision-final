@@ -62,7 +62,7 @@ A real-time **AI-powered wellness monitoring app** that uses your webcam and mic
 
 ## 📂 Project Structure
 
-```
+###
 wellvision-ai/
 ├── backend/
 │   ├── main.py                  # FastAPI app entry point
@@ -111,8 +111,7 @@ wellvision-ai/
 ├── firestore.indexes.json       # Firestore composite indexes
 ├── firebase.json                # Firebase CLI config
 └── README.md
-```
-
+###
 ---
 
 ## ⚙️ Prerequisites
