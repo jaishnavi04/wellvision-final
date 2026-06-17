@@ -26,7 +26,7 @@ A real-time **AI-powered wellness monitoring app** that uses your webcam and mic
 - 🗃️ **Session History** — All results stored and queryable via Firestore
 - 📱 Fully responsive — desktop, tablet, and mobile
 
-###
+---
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@ A real-time **AI-powered wellness monitoring app** that uses your webcam and mic
 | Firebase | Auth, Firestore DB, hosting config |
 | Vercel | Frontend hosting & CI/CD |
 | GitHub | Version control & source |
-###
+---
 
 
 ## 📂 Project Structure
