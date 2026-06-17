@@ -29,7 +29,7 @@ A real-time **AI-powered wellness monitoring app** that uses your webcam and mic
 ---
 
 ## 🛠️ Tech Stack
-
+###
 ### Frontend
 | Technology | Purpose |
 |---|---|
@@ -57,7 +57,7 @@ A real-time **AI-powered wellness monitoring app** that uses your webcam and mic
 | Firebase | Auth, Firestore DB, hosting config |
 | Vercel | Frontend hosting & CI/CD |
 | GitHub | Version control & source |
-
+###
 ---
 
 ## 📂 Project Structure
